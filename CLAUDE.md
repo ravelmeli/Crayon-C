@@ -10,4 +10,4 @@ Each video lives in its own folder (e.g. `nvidia-doc/`).
 
 ## History
 1. "Why Nvidia Would Fail Without Jensen Huang" — news, English, 1 min (`nvidia-doc/`).
-2. Same topic, Italian, 5 min — project `nvidia-it/` (script `nvidia-it/docs/script.md`, cleaned VO `nvidia-it/public/vo_it.wav`, in progress).
+2. Same topic, Italian, 5 min — project `nvidia-it/` (script `nvidia-it/docs/script.md`, cleaned VO `nvidia-it/public/vo_it.wav`) — rendered 1080p, 5:40, 128 beats. Next video: evergreen.
