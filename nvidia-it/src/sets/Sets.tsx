@@ -54,7 +54,7 @@ export const OfficeBack: React.FC<{f: number; board?: React.ReactNode; night?: b
 			{/* scoreboard / wall screen */}
 			<rect x={700} y={290} width={560} height={300} rx={8} fill="#121620" {...O} strokeWidth={9} />
 			<g>{board}</g>
-			<Sign x={980} y={262} text="Q3 RESULTS" w={260} size={30} />
+			<Sign x={980} y={262} text="RISULTATI Q3" w={280} size={30} />
 			{/* shelf with binders */}
 			<rect x={1380} y={430} width={420} height={18} fill="#6E4726" {...O} />
 			{['#C33631', '#4A6B6E', '#2C3E50', '#C9A94A', '#4A6B6E', '#6E4726'].map((c, i) => (
@@ -144,7 +144,7 @@ export const KitchenBack: React.FC<{f: number; menu?: React.ReactNode}> = ({f, m
 				</g>
 			))}
 			<WallClock x={1380} y={160} t={f} />
-			<Sign x={1600} y={240} text="ORDER UP" w={240} bg={PALETTE.red} size={32} />
+			<Sign x={1600} y={240} text="ORDINE!" w={220} bg={PALETTE.red} size={32} />
 			{/* stove line */}
 			<rect x={-700} y={480} width={3300} height={210} fill="#9DA4A6" {...O} />
 			{Array.from({length: 14}).map((_, i) => (
@@ -184,7 +184,7 @@ export const BoardroomBack: React.FC<{f: number}> = ({f}) => (
 			<Frame x={1470} y={170} w={150} h={190} art="portrait" c="#5A4A38" />
 			<Lamp x={560} y={330} />
 			<Lamp x={1360} y={330} />
-			<Sign x={960} y={500} text="BOARD OF DIRECTORS" w={420} bg="#C9A94A" fg={INK} size={28} />
+			<Sign x={960} y={500} text="CONSIGLIO" w={300} bg="#C9A94A" fg={INK} size={28} />
 		</Layer>
 		<Layer p={0.85}>
 			<Patterned x={-700} y={FLOOR} w={3300} h={600} fill="#5A1E1E" pattern="checker" cell={120} />

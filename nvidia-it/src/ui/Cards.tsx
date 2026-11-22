@@ -10,7 +10,7 @@ export const BlackCard: React.FC<{text: string; f: number; startTyping?: number;
 	const shown = text.slice(0, Math.min(text.length, n));
 	return (
 		<AbsoluteFill style={{background: '#000', alignItems: 'center', justifyContent: 'center'}}>
-			<div style={{fontFamily: HAND, fontWeight: 700, fontSize: 118, color: '#fff', whiteSpace: 'nowrap', position: 'relative'}}>
+			<div style={{fontFamily: HAND, fontWeight: 700, fontSize: Math.min(118, 1750 / (text.length * 0.46)), color: '#fff', whiteSpace: 'nowrap', position: 'relative'}}>
 				<span style={{visibility: 'hidden'}}>{text}</span>
 				<span style={{position: 'absolute', left: 0, top: 0}}>{shown}</span>
 			</div>
