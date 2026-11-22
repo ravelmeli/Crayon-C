@@ -40,8 +40,9 @@ Il prossimo chip si chiama RIVA 128. Esce nel millenovecentonovantasette. Nvidia
 - E quanti mesi ci restano adesso?
 - Parecchi.
 
-[STAMP: 1999] Nel millenovecentonovantanove Nvidia entra in Borsa. Lo stesso anno lancia GeForce. E le dà un nome nuovo: GPU, il processore grafico.
 [CARD] Salvi. Per questa volta.
+
+[STAMP: 1999] Nel millenovecentonovantanove Nvidia entra in Borsa. Lo stesso anno lancia GeForce. E le dà un nome nuovo: GPU, il processore grafico.
 
 [CHAPTER: La scommessa che nessuno capiva]
 
