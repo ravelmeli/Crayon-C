@@ -54,7 +54,7 @@ export const OfficeBack: React.FC<{f: number; board?: React.ReactNode; night?: b
 			{/* scoreboard / wall screen */}
 			<rect x={700} y={290} width={560} height={300} rx={8} fill="#121620" {...O} strokeWidth={9} />
 			<g>{board}</g>
-			<Sign x={980} y={262} text="RISULTATI Q3" w={280} size={30} />
+			<Sign x={980} y={262} text="NOTIZIE" w={220} size={30} />
 			{/* shelf with binders */}
 			<rect x={1380} y={430} width={420} height={18} fill="#6E4726" {...O} />
 			{['#C33631', '#4A6B6E', '#2C3E50', '#C9A94A', '#4A6B6E', '#6E4726'].map((c, i) => (
