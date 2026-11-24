@@ -7,6 +7,7 @@ Each video lives in its own folder (e.g. `nvidia-doc/`).
 - Alternate topics from one video to the next: one **news** video (recent story), then one **evergreen** video (frauds, heists, collapses, strange places…), and so on.
 - Audience: the Nvidia video was remade for an **Italian** audience (script in Italian). Ask which language/audience for each new video if not stated.
 - Default pace: Fast.
+- Rendering: do NOT send a low-res preview for review. Once the storyboard is done, render the final 1080p MP4 directly and deliver it (user request, Nov 2026).
 
 ## History
 1. "Why Nvidia Would Fail Without Jensen Huang" — news, English, 1 min (`nvidia-doc/`).
