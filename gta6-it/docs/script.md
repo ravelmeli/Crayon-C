@@ -159,7 +159,7 @@ Ed è proprio questo il calcolo dell'industria. Un film lo vedi una volta. Un GT
 Gli ottimisti hanno buoni argomenti. Il gioco esiste, finalmente. I numeri sono i più alti della storia dell'intrattenimento. Le azioni di Take-Two salgono dopo l'annuncio. E la parte online deve ancora arrivare.
 [CARD] Ma il record del primo giorno nasconde una trappola.
 
-Trentadue milioni e mezzo di persone hanno comprato il gioco prima ancora che uscisse. Alcuni analisti lo hanno notato subito: tanti pre-ordini possono significare vendite che rallentano più in fretta. Chi lo voleva, ce l'ha già.
+Trentadue milioni e mezzo di copie vendute prima ancora che il gioco uscisse. Alcuni analisti lo hanno notato subito: tanti pre-ordini possono significare vendite che rallentano più in fretta. Chi lo voleva, ce l'ha già.
 
 È come aprire un ristorante e servire in una sera tutti i clienti del primo anno. La sera è da record. Ma il giorno dopo?
 
