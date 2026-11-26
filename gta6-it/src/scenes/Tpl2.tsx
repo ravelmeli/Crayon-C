@@ -81,7 +81,7 @@ const SETS: Record<string, {bg: string; g: string; C: React.FC<{f: number; st?: 
 	store: {bg: '#13192B', g: 'night', C: ({f}) => <StoreBack f={f} />},
 	protest: {bg: '#B8C8D0', g: 'day', C: ({f}) => <ProtestBack f={f} />},
 	stocks: {bg: '#1E2A38', g: 'night', C: ({f, st}) => <StocksBack f={f} up={st?.up ?? true} />},
-	home: {bg: '#E8D8C0', g: 'none', C: ({f}) => <OfficeBack f={f} board={<text x={980} y={480} textAnchor="middle" fontFamily={CAPS} fontSize={80} fill={PALETTE.accent}>€22 / €32</text>} />},
+	home: {bg: '#E8D8C0', g: 'none', C: ({f}) => <OfficeBack f={f} board={<text x={980} y={480} textAnchor="middle" fontFamily={CAPS} fontSize={80} fill={PALETTE.accent}>€79,99</text>} />},
 };
 
 // ---------------- props ----------------
