@@ -181,7 +181,7 @@ E c'entra perché i titoli Parmalat arrivavano allo sportello della banca di fid
 - È lunga?
 - Molto.
 - E davanti a me chi c'è?
-- Le banche.
+- Chi ha le garanzie.
 
 - Mi fido della banca.
 - Brava.
