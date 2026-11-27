@@ -240,7 +240,7 @@ export const StocksBack: React.FC<{f: number; up?: boolean}> = ({f, up = true}) 
 				<rect x={460} y={140} width={1000} height={480} rx={10} fill="#0E1420" {...O} strokeWidth={8} />
 				<polyline points={pts.slice(0, Math.max(2, Math.floor((f / 40) * 16))).join(' ')} fill="none" stroke={up ? PALETTE.accent : PALETTE.red} strokeWidth={8} />
 				<text x={500} y={200} fontFamily={CAPS} fontSize={44} fill="#E8E2C4">
-					TAKE-TWO
+					BORSA
 				</text>
 				<text x={1400} y={200} textAnchor="end" fontFamily={CAPS} fontSize={44} fill={up ? PALETTE.accent : PALETTE.red}>
 					{up ? '▲' : '▼'}
