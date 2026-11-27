@@ -55,6 +55,8 @@ Un'obbligazione è un prestito. Tu dai dei soldi all'azienda. L'azienda promette
 
 Il problema è che i debiti crescono più del latte. E allora, secondo gli inquirenti, i conti cominciano a mentire. Debiti nascosti in società lontane. Soldi che risultano in cassa, ma non ci sono.
 
+Per un'azienda che vende latte in tutto il mondo, un debito non è strano. Il problema è quando il debito si traveste da ricchezza.
+
 Pensate al bilancio come a una foto del frigorifero. Chi presta soldi guarda la foto e vede un frigorifero pieno. Parmalat, per anni, fotografa un frigorifero dipinto sul muro.
 
 - Il frigo è pieno?
@@ -72,6 +74,15 @@ Ma qualcosa non torna. Se hai miliardi in banca, perché continui a chiedere pre
 [STAMP: DIC 2003] Dicembre duemilatre. I revisori fanno la domanda più semplice. Scrivono alla Bank of America: confermate questo conto?
 
 La risposta arriva via fax. Il conto non esiste. La lettera di conferma è un falso.
+
+C'è un dettaglio che rende tutto più amaro. Anche i revisori di Bonlat avevano certificato i conti del duemiladue. Si erano basati proprio su quella conferma falsa. Più tardi, anche la SEC, l'autorità di Borsa americana, accusa Parmalat: per gli Stati Uniti, gli attivi del duemiladue erano gonfiati di almeno tre miliardi e novecentocinquanta milioni di euro.
+
+- Chi ha controllato il conto?
+- I revisori.
+- E come?
+- Con una lettera.
+- E la lettera chi l'ha scritta?
+- ...Parmalat.
 
 - È vera questa lettera?
 - Ha il logo della banca.
@@ -117,7 +128,7 @@ Secondo le cronache, Tanzi passa poco più di due anni in prigione. Poi va agli 
 
 [STAMP: DIC 2009] Ma la storia ha un ultimo colpo di scena. Dicembre duemilanove. La Guardia di Finanza trova diciannove opere d'arte nascoste in case della zona di Parma. Van Gogh, Picasso, Modigliani, Cézanne. Valore stimato: circa cento milioni di euro.
 
-La pista arriva da una trasmissione televisiva e da una soffiata. Il genero di Tanzi racconta agli investigatori che i quadri sono suoi.
+La pista arriva da una trasmissione televisiva e da una soffiata. Il genero di Tanzi racconta agli investigatori che i quadri sono suoi. Anni dopo, nel duemiladiciannove, due Van Gogh di quel tesoro vengono venduti.
 
 - Dove sono i quadri?
 - In soffitta.
@@ -126,7 +137,7 @@ La pista arriva da una trasmissione televisiva e da una soffiata. Il genero di T
 - Solo uno?
 - Diciannove opere.
 
-[STAMP: 1 GEN 2022] Calisto Tanzi muore il primo gennaio duemilaventidue, a Parma. Ha ottantatré anni.
+[STAMP: 1 GEN 2022] Calisto Tanzi muore il primo gennaio duemilaventidue, a Parma. Ha ottantatré anni. Aveva guidato Parmalat per più di quarant'anni, dal millenovecentosessantuno al crac.
 
 [CHAPTER: Il latte sopravvive]
 
@@ -163,7 +174,14 @@ E tu? Che cosa c'entra un crac del duemilatre con i tuoi risparmi?
 
 C'entra perché la domanda giusta era semplice. Chi presta soldi a un'azienda dovrebbe chiedersi: se ha miliardi in cassa, perché me li chiede?
 
-E c'entra perché i titoli Parmalat arrivavano allo sportello della banca di fiducia. Con un marchio che tutti conoscevano. Il nome familiare non è una garanzia. È solo un nome.
+E c'entra perché i titoli Parmalat arrivavano allo sportello della banca di fiducia. Con un marchio che tutti conoscevano. Il nome familiare non è una garanzia. È solo un nome. E una obbligazione non è un conto in banca: se l'azienda crolla, chi l'ha comprata si mette in fila con tutti gli altri creditori.
+
+- In che fila sono?
+- Quella dei creditori.
+- È lunga?
+- Molto.
+- E davanti a me chi c'è?
+- Le banche.
 
 - Mi fido della banca.
 - Brava.
